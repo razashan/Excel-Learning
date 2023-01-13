@@ -1,0 +1,7 @@
+In this dataset we can apply 
+filters,
+Vlookup
+Mathematical Calculations
+Sorting
+Visualizations
+Pivot Tables
